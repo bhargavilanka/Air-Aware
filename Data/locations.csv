@@ -1,278 +1,548 @@
-location,coordinates,AQI
-"Gulf Elementary School, Los Angeles","33.7854002, -118.272707",85
-"Broad Ave Elementary School, Los Angeles","33.787141, -118.2613628",81
-"Point Fermin Magnet Elementary School, Los Angeles","33.7050194, -118.2939602",81
-"Cabrillo Elementary School, Los Angeles","33.7373804, -118.2933451", 80
-"Palms Elementary School, Los Angeles","34.0255764, -118.407104", 80
-"President Elementary School, Los Angeles","33.8043187, -118.302315", 80
-"Weigand Elementary School, Los Angeles","33.9414186, -118.2301511", 78
-"42nd St Elementary School, Los Angeles","34.0063449, -118.321771", 77
-"Compton Elementary School, Los Angeles","34.0549076, -118.242643", 77
-"Hamilton HS, Los Angeles","34.034135, -118.391615", 77
-"La Salle Elementary School, Los Angeles","33.9576657, -118.3061415", 77
-"Normandie Elementary School, Los Angeles","34.002929, -118.299", 77
-"Small World Learning Center, Los Angeles","33.7988558, -118.2641958",77
-"Taper Elementary School, Los Angeles","33.76254, -118.298393", 77
-"Wilmington Pk Elementary School, Los Angeles","33.7911608, -118.2633204", 77
-"Woll Drive, Los Angeles","34.2369558, -118.6073379",77
-"122nd St Elementary School, Los Angeles","33.9215946, -118.2673921", 75
-"Budlong Elementary School, Los Angeles","33.9867691, -118.2954464", 75
-"Woodcrest Elementary School, Los Angeles","33.937696, -118.2959261", 75
-"Avalon Gardens Elementary School, Los Angeles","33.9049323, -118.2692971", 74
-"Crescent Hts Bl EEC, Los Angeles","34.0569558, -118.3700705", 74
-"Graham Elementary School, Los Angeles","33.961479, -118.2378897", 74
-"South Shores Magnet Elementary School, Los Angeles","33.722693, -118.3222125", 74
-"Virginia Elementary School, Los Angeles","34.0280051, -118.3397028", 74
-"Knox Elementary School, Dr Owen Lloyd, Los Angeles","33.954806, -118.274214", 73
-"59th St Elementary School, Los Angeles","33.986381, -118.3200659", 72
-"7th St Elementary School, Los Angeles","33.7378929, -118.2973269", 72
-"Ken Malloy Harbor Regional Park, Los Angeles","33.783516, -118.294876",72
-"Marvin Elementary School, Los Angeles","34.035593, -118.364317", 72
-"Osage Avenue, Los Angeles","33.9657377, -118.3787413",72
-"Point Fermin, Los Angeles","33.7050194, -118.2939602",72
-"Russell Elementary School, Los Angeles","33.9610357, -118.2518857", 72
-"West 52nd Street, Los Angeles","33.9950822, -118.3089505",72
-"Grand View Elementary School, Los Angeles","34.0023408, -118.4296175", 71
-"Marlton Elementary School, Los Angeles","34.0549076, -118.242643", 71
-"W 14th St & S Meyler, Los Angeles","33.7315361, -118.2967985",71
-"5261 Thornburn St, Los Angeles","33.9701504, -118.3718626",70
-"Estrella Elementary School, Los Angeles","33.9905378, -118.2733684", 70
-"Lenicia Weemes Elementary School, Los Angeles","34.0215313, -118.2964984", 70
-"Pacific Palisades Elementary School, Los Angeles","34.0467365, -118.546434", 70
-"Westport Hts Elementary School, Los Angeles","33.9670281, -118.3884166", 70
-"6649-6701 W 88th St, Los Angeles","33.95714, -118.4060868",69
-"Harbor Christian School, Los Angeles","33.793676, -118.274786",69
-"Truxton, Los Angeles","33.9651162, -118.3934512",69
-"Upland Avenue, Los Angeles","33.7502494, -118.294902",69
-"Delgany Ave in Playa, Los Angeles","33.9579521, -118.4412677",68
-"Diego Rivera LC, Los Angeles","33.9840227, -118.256223", 68
-"Grand View Boulevard, Los Angeles","34.0072596, -118.4330349",68
-"Mid-City Magnet Elementary School, Los Angeles","34.0317148, -118.3181562", 68
-"Resurrection Catholic School, Los Angeles","34.0223462, -118.2047986",68
-"Webster MS, Los Angeles","34.0298675, -118.4347599", 68
-"Westchester, Los Angeles","33.957255, -118.3962589",68
-"Westchester-Kentwood South, Los Angeles","34.0549076, -118.242643",68
-"Wilmington 2, Los Angeles","33.7948999, -118.2273604",68
-"8360 Chase Ave, Los Angeles","33.9615302, -118.4093178",67
-"Kent's yard, Los Angeles","34.0549076, -118.242643",67
-"Ashwood Avenue, Los Angeles","34.0019001, -118.4476095",66
-"Canfield Elementary School, Los Angeles","34.0505437, -118.3902932", 66
-"Loyola Village Elementary School, Los Angeles","33.957623, -118.421267", 66
-"Playa Del Rey Elementary School, Los Angeles","33.9823997, -118.40955", 66
-"Revere MS, Los Angeles","34.0549498, -118.4951759", 66
-"Trinity Elementary School, Los Angeles","34.0120128, -118.2695044", 66
-"Walgrove Elementary School, Los Angeles","34.0058561, -118.4517492", 66
-"Wilshire Crest Elementary School, Los Angeles","34.057988, -118.343595", 66
-"Windsor Magnet Elementary School, Los Angeles","34.0549076, -118.242643", 66
-"Leavey 5, Los Angeles","33.9688944, -118.422015",65
-"Rose Avenue, Los Angeles","34.0124689, -118.4464034",65
-"Westwood Elementary School, Los Angeles","34.047135, -118.4302192", 65
-"Village Green, Los Angeles","34.0195515, -118.3617279",64
-"Brentwood Sci Mag Elementary School, Los Angeles","34.0500598, -118.4739654", 63
-"Hancock Park Elementary School, Los Angeles","34.0694682, -118.3610329", 63
-"Kenter Canyon Elementary School, Los Angeles","34.0706958, -118.4890412", 63
-"Lake Shrine, Los Angeles","34.0434754, -118.5528976",63
-"Mar Vista, Los Angeles","34.0036796, -118.4335825",63
-"Palms, Los Angeles","34.0247288, -118.4116534",63
-"Stanley Avenue, Los Angeles","34.0528706, -118.3600947",63
-"Westminster Elementary School, Los Angeles","33.9916065, -118.4722", 63
-"10380 Glenbarr Avenue, Los Angeles","34.0400858, -118.4106555",62
-"Jefferson HS, Los Angeles","34.0095718, -118.2510021", 62
-"Villa Marina Townhomes, Los Angeles","33.9813396, -118.4350902",62
-"3974 W Florence Ave, Los Angeles","33.9739309, -118.3352796",61
-"Baldwin Hills, Los Angeles","34.0193012, -118.3666482",61
-"Brockton Elementary School, Los Angeles","34.043952, -118.4628551", 61
-"CCA - Whitsett Avenue, Los Angeles","34.1819773, -118.4052671",61
-"Glenmont Avenue, Los Angeles","34.0661292, -118.436989",61
-"Rowan Elementary School, Los Angeles","34.0283132, -118.1871629", 61
-"Esperanza Elementary School, Los Angeles","34.0546807, -118.271848", 60
-"Huntington Palisades, Los Angeles","34.0374444, -118.5210654",60
-"Plaza Community Services La Roca Verde, Los Angeles","34.0550064, -118.1781954",60
-"San Pedro Elementary School, Los Angeles","34.028942, -118.257733", 60
-"Calle de Madrid, Los Angeles","34.0714627, -118.5578046",59
-"Playa Vista, Los Angeles","33.9792232, -118.4138353",59
-"Carey Street, Los Angeles","34.0457029, -118.5198721",57
-"Hancock Park, Los Angeles","34.0761744, -118.3385981",57
-"Lindenhurst and Crescent Heights, Los Angeles","34.0661213, -118.3648549",57
-"Norwood Elementary School, Los Angeles","34.0352415, -118.2782119", 57
-"1302 N Poinsettia Pl, Los Angeles","34.0945405, -118.3480837",56
-"Brentwood School West Campus, Los Angeles","34.0612035, -118.4756298",56
-"Overland Avenue, Los Angeles","34.0243338, -118.4113214",56
-"9th & Flower, Los Angeles","34.046124, -118.261375",55
-"Brentwood School East Campus, Los Angeles","34.0668665, -118.4696946",55
-"CCA - North La Brea Avenue, Los Angeles","34.0910215, -118.3440869",55
-"Comstock-Dunkirk, Los Angeles","34.0549076, -118.242643",55
-"Crescent Park W, Los Angeles","33.9704522, -118.4280664",55
-"Los Feliz Elementary School, Los Angeles","34.1028892, -118.2931208", 54
-"N Main St, Los Angeles","34.0664402, -118.2203896",54
-"Rosemont Elementary School, Los Angeles","34.072346, -118.269908", 54
-"Van Ness Elementary School, Los Angeles","34.0803334, -118.3162748", 54
-"West Hollywood, Los Angeles","34.0900091, -118.3617443",54
-"Bellagio Rd, Los Angeles, CA, Los Angeles","34.0802175, -118.4527106",53
-"Corona-Norco YMCA, Los Angeles","34.0549076, -118.242643",53
-"Farlin Street, Los Angeles","34.0674896, -118.4639042",53
-"Playa del Rey, Los Angeles","33.9564064, -118.4424524",53
-"Atwater Elementary School, Los Angeles","34.1147155, -118.253952", 52
-"Oak Hill Avenue, Los Angeles","34.1035542, -118.1801422",52
-"Stagg Elementary School, Los Angeles","34.2129518, -118.5065792", 52
-"Vedanta Courtyard, Los Angeles","34.0549076, -118.242643",52
-"Warner Elementary School, Los Angeles","34.0697426, -118.4337257", 52
-"Westwood, Los Angeles","34.0588075, -118.4439326",52
-"Dowlen Drive, Los Angeles","34.0521145, -118.4549782",51
-"Moraga Drive, Los Angeles","34.0861506, -118.4698842",51
-"Meadow Valley Terrace, Los Angeles","34.1008443, -118.2716307",50
-"Frank Del Olmo Elementary School, Los Angeles","34.072925, -118.292591", 49
-"Cedarhurst Circle, Los Angeles","34.1108487, -118.2836803",47
-"Glenwood Elementary School, Los Angeles","34.2163383, -118.3578599", 46
-"Norris Avenue, Los Angeles","34.3098195, -118.4621458",46
-"Yucca Street, Los Angeles","34.1033789, -118.3333522",46
-"CCA Bates and Sunset, Los Angeles","34.0549076, -118.242643",44
-"Harvard-Westlake Middle School, Los Angeles","34.0876693, -118.4338455",44
-"Roybal LC, Los Angeles","34.06149670000001, -118.254669", 44
-"Silver Lake, Los Angeles","34.082936, -118.2733457",44
-"Central Belden Drive, Los Angeles","34.122566, -118.3219867",43
-"Mellon Avenue, Los Angeles","34.1024967, -118.2480484",43
-"Wilshire Blvd, Los Angeles","34.0640612, -118.3718705",43
-"Bryn Mawr Drive, Los Angeles","34.113075, -118.3287316",42
-"Glassell Park, Los Angeles","34.1200715, -118.2288829",42
-"North Citrus Avenue, Los Angeles","34.0845636, -118.3396796",42
-"University of California Outside, Los Angeles","34.0699182, -118.4438495",42
-"Logan Elementary School, Los Angeles","34.0788102, -118.257733", 41
-"Nomad Drive, Los Angeles","34.1580811, -118.5682563",41
-"Sheridan St Elementary School, Los Angeles","34.0502902, -118.207613", 41
-"Stonehurst Elementary School, Los Angeles","34.251114, -118.3703581", 41
-"Stone Canyon Avenue, Los Angeles","34.1400076, -118.459659",40
-"306 North Avenue 50 - outside, Los Angeles","34.1071942, -118.20407",39
-"Fernangeles Elementary School, Los Angeles","34.231732, -118.39503", 39
-"Metropolitan HS, Los Angeles","34.0337765, -118.2345115", 39
-"Utah Elementary School, Los Angeles","34.049062, -118.224583", 39
-"Wonderland Elementary School, Los Angeles","34.1142214, -118.3798058", 39
-"Baltimore Street, Los Angeles","34.1179892, -118.2027901",38
-"Nichols Canyon Road, Los Angeles","34.1147788, -118.3599943",38
-"Toluca Lake Elementary School, Los Angeles","34.1594946, -118.3613245", 38
-"11060 Norris Ave, Los Angeles","34.2710414, -118.4162646",37
-"511 North Kenter Avenue, Los Angeles","34.067809, -118.4863881",37
-"CCA Avenida Bonita and Villa Del Sol, Los Angeles","34.2768546, -118.4131489",37
-"CCA Borden and Carl, Los Angeles","34.0549076, -118.242643",37
-"NASA - Terrace 49, Los Angeles","34.1144425, -118.2114436",37
-"11101-11117 Ventura Blvd, Los Angeles","34.1415576, -118.3721225",36
-"875 Terrace 49, Los Angeles","34.1140758, -118.2111233",36
-"Colfax Elementary School, Los Angeles","34.1601301, -118.3883087", 36
-"Glenfeliz Blvd Elementary School, Los Angeles","34.1200765, -118.2653463", 36
-"Harding Elementary School, Los Angeles","34.3052925, -118.4164548", 36
-"Laurel Elementary School, Los Angeles","34.0549076, -118.242643", 36
-"Riverside Drive, Los Angeles","34.098931, -118.2489795",36
-"Harrison Elementary School, Los Angeles","34.053843, -118.1887297", 35
-"Maclay MS, Los Angeles","34.2715979, -118.4065119", 35
-"Scandia Way, Los Angeles","34.1192465, -118.2247091",35
-"2853-2841 N Beverly Glen Blvd, Los Angeles","34.1258989, -118.4459166",34
-"Aragon Elementary School, Los Angeles","34.094857, -118.225535", 34
-"CCA Haddon and Weidner, Los Angeles","34.2656524, -118.4335681",34
-"Hill Drive, Los Angeles","34.1111144, -118.3765473",34
-"Huntington, Los Angeles","33.9816812, -118.2250725",34
-"Naturhus W Avenue 37, Los Angeles","34.1001172, -118.2236682",34
-"Solano Elementary School, Los Angeles","34.0761451, -118.232196", 34
-"Tropico Way, Los Angeles","34.1057068, -118.2231053",34
-"4704 St Clair Ave, Los Angeles","34.1561189, -118.3989424",33
-"Ackerman Drive, Los Angeles","34.1168243, -118.2263929",33
-"Buchanan Elementary School, Los Angeles","34.1192482, -118.2063769", 33
-"CCA Kewen and Van Nuys, Los Angeles","34.2623889, -118.4272098",33
-"Camden Avenue, Los Angeles","34.0448491, -118.4393291",33
-"Central Los Angeles, Los Angeles","34.0689454, -118.3236337",33
-"Green Verdugo Drive, Los Angeles","34.2559183, -118.3386997",33
-"Media District, Los Angeles","34.0879291, -118.3446425",33
-"El Sereno Elementary School, Los Angeles","34.0899937, -118.1769951", 32
-"Halsted Street, Los Angeles","34.2445737, -118.5350513",32
-"Mt. Washington School, Los Angeles","34.1030377, -118.2169092",32
-"Multnomah St Elementary School, Los Angeles","34.0693953, -118.1900335", 32
-"Rim Canyon Road, Los Angeles","34.2741577, -118.3047974",32
-"Springvale, Los Angeles","34.1234319, -118.1866668",32
-"Sun Valley, Los Angeles","34.2225413, -118.3878208",32
-"Sunland Boulevard, Los Angeles","34.2476227, -118.3499739",32
-"17489 Tuscan Dr, Los Angeles","34.3041038, -118.5140265",31
-"8500 Louise Avenue, Los Angeles","34.2250967, -118.5093893",31
-"Bel Air Hills, Los Angeles","34.1002272, -118.4594893",31
-"CCA Castle Peak and Sunset Ridge, Los Angeles","34.196378, -118.6589895",31
-"CSUN Live Oak, Los Angeles","34.2406756, -118.5300196",31
-"Eagle Rock Elementary School, Los Angeles","34.1359438, -118.2130074", 31
-"Monlux Elementary School, Los Angeles","34.1809165, -118.4097322", 31
-"Toluca Lake, Los Angeles","34.1522225, -118.3614667",31
-"Woodland Hills 2, Los Angeles","34.1685035, -118.6058267",31
-"Kester Avenue, Los Angeles","34.2075572, -118.4574817",30
-"La Fayette PP / Marathon, Los Angeles","34.0549076, -118.242643",30
-"Sierra Park Elementary School, Los Angeles","34.0823177, -118.1689134", 30
-"VVAMPLincoln2, Los Angeles","34.0549076, -118.242643",30
-"Aleman Drive, Los Angeles","34.1462301, -118.5648911",29
-"Arroyo Seco Magnet SPAN, Los Angeles","34.1016544, -118.2043503", 29
-"Fair Avenue, Los Angeles","34.1830642, -118.3746956",29
-"Northridge, Los Angeles","34.2354576, -118.5361381",29
-"Parthenia Street, Los Angeles","34.2286581, -118.5249595",29
-"Riverwood ranch, Los Angeles","34.2776191, -118.3185559",29
-"Vulcan Drive, Los Angeles","34.1166218, -118.3689175",29
-"Westland School, Los Angeles","34.1293542, -118.4859806",29
-"4124 Fulton Ave, Los Angeles","34.144429, -118.4222213",28
-"CCA Crownridge and Royal Woods, Los Angeles","34.1338002, -118.4742372",28
-"Chandler Elementary School, Los Angeles","34.166422, -118.4389877", 28
-"Dyer Elementary School, Los Angeles","34.3001319, -118.4476225", 28
-"Hazen Drive, Los Angeles","34.1150946, -118.3962055",28
-"Lockhurst Drive, Los Angeles","34.1787617, -118.6499118",28
-"Porter Ranch, Los Angeles","34.27549520000001, -118.5472573",28
-"Sierra Vista Elementary School, Los Angeles","34.09583080000001, -118.1589872", 28
-"Woodland Hills, Los Angeles","34.1685035, -118.6058267",28
-"Byrd MS, Los Angeles","34.2239176, -118.4079183", 27
-"Cohasset Elementary School, Los Angeles","34.207515, -118.477991", 27
-"Encino, Luverne Pl, Los Angeles","34.1485698, -118.5080416",27
-"Lincoln and Ave 51, Los Angeles","34.1171112, -118.2049082",27
-"Lowman Sp Ed Ctr, Los Angeles","34.2067077, -118.4127961", 27
-"Rio Vista Elementary School, Los Angeles","34.1472362, -118.3678898", 27
-"San Pascual Elementary School, Los Angeles","34.1188733, -118.1715818", 27
-"Sharp Elementary School, Los Angeles","34.2523117, -118.4327187", 27
-"Tacuba Street, Los Angeles","34.1101308, -118.2174221",27
-"Ranchito Elementary School, Los Angeles","34.2149329, -118.4341996", 26
-"Roscomare Elementary School, Los Angeles","34.1199574, -118.4642172", 26
-"Kittridge Elementary School, Los Angeles","34.190563, -118.4296818", 25
-"Nevada Elementary School, Los Angeles","34.2238057, -118.6074703", 25
-"Anatola Elementary School, Los Angeles","34.2039231, -118.5145211", 24
-"Brainard Elementary School, Los Angeles","34.27742, -118.3645936", 24
-"Calabash Elementary School, Los Angeles","34.158581, -118.629491", 24
-"Calvert Elementary School, Los Angeles","34.0549076, -118.242643", 24
-"Herrick Ave, Los Angeles","34.2964769, -118.4418017",24
-"Mayall Elementary School, Los Angeles","34.2532811, -118.5361244", 24
-"Porter Ranch Cmty Sch, Los Angeles","34.27549520000001, -118.5472573", 24
-"Verdugo Hills HS, Los Angeles","34.2617646, -118.2985034", 24
-"Wilbur Elementary School, Los Angeles","34.1651368, -118.544452", 24
-"Andasol Elementary School, Los Angeles","34.2547151, -118.5146271", 23
-"Canterbury Ave Elementary School, Los Angeles","34.2339533, -118.4298478", 23
-"Hesby Oaks SPAN, Los Angeles","34.1618887, -118.4726989", 23
-"Napa Elementary School, Los Angeles","34.2258627, -118.5472758", 23
-"ORR Sullivan Canyon, Los Angeles","34.0990173, -118.5200076",23
-"Topeka Dr Elementary School, Los Angeles","34.1874688, -118.5458533", 23
-"Woodland Hills Elementary School, Los Angeles","34.1590266, -118.6101541", 23
-"Danube Elementary School, Los Angeles","34.2741582, -118.474471", 22
-"Harvard-Westlake Upper School 2, Los Angeles","34.1396389, -118.4126294",22
-"Kester Elementary School, Los Angeles","34.167579, -118.458537", 22
-"Parthenia Elementary School, Los Angeles","34.2272802, -118.4991692", 22
-"Stone Canyon, Los Angeles","34.0788976, -118.4420243",22
-"Sunny Brae Elementary School, Los Angeles","34.2128095, -118.5815666", 22
-"Sylmar, Los Angeles","34.2994874, -118.4588292",22
-"Alta California Elementary School, Los Angeles","34.2324268, -118.4568159", 21
-"Chatsworth HS, Los Angeles","34.25342370000001, -118.5860661", 21
-"Hamlin Elementary School, Los Angeles","34.1896111, -118.62028", 21
-"Lassen Elementary School, Los Angeles","34.2465215, -118.4591603", 21
-"Monroe HS, Los Angeles","34.2383746, -118.4769293", 21
-"Mulholland MS, Los Angeles","34.1928686, -118.5059095", 21
-"Nestle Elementary School, Los Angeles","34.1622413, -118.5305467", 21
-"North Valley OC, Los Angeles","34.1697245, -118.3551662", 21
-"Rinaldi Adult Center, Los Angeles","34.2791507, -118.5147362", 21
-"Vintage Math/Sci Mag Elementary School, Los Angeles","34.2519085, -118.477271", 21
-"Knollwood Elementary School, Los Angeles","34.2850886, -118.4926004", 20
-"Mosk Elementary School, Los Angeles","34.2033877, -118.5683705", 20
-"Castlebay Ln Elementary School, Los Angeles","34.2936741, -118.5475018", 19
-"Taft HS, Los Angeles","34.1690356, -118.5716831", 18
-"Van Gogh Elementary School, Los Angeles","34.3055309, -118.5058746",18
-"3173 17 Mile Dr, Los Angeles","34.0549076, -118.242643",17
-"Mountain Gate, Los Angeles","34.1104918, -118.48531",17
-"Pagoda Place, Los Angeles","34.087694, -118.2021523",17
-"Granada Hills - North, Los Angeles","34.2940295, -118.5039132",6
-"Jolette Ave x Westbury Dr, Los Angeles","34.3020513, -118.5098497",6
-"Lorenzana, Los Angeles","34.1647376, -118.5748806",6
+,location,coordinates
+0,"Gulf Elementary School, Los Angeles","33.7854002, -118.272707"
+1,"Broad Ave Elementary School, Los Angeles","33.787141, -118.2613628"
+2,"Point Fermin Magnet Elementary School, Los Angeles","33.7050194, -118.2939602"
+3,"Cabrillo Elementary School, Los Angeles","33.7373804, -118.2933451"
+4,"Palms Elementary School, Los Angeles","34.0255764, -118.407104"
+5,"President Elementary School, Los Angeles","33.8043187, -118.302315"
+6,"Weigand Elementary School, Los Angeles","33.9414186, -118.2301511"
+7,"42nd St Elementary School, Los Angeles","34.0063449, -118.321771"
+8,"Compton Elementary School, Los Angeles","34.0549076, -118.242643"
+9,"Hamilton HS, Los Angeles","34.034135, -118.391615"
+10,"La Salle Elementary School, Los Angeles","33.9576657, -118.3061415"
+11,"Normandie Elementary School, Los Angeles","34.002929, -118.299"
+12,"Small World Learning Center, Los Angeles","33.7988558, -118.2641958"
+13,"Taper Elementary School, Los Angeles","33.76254, -118.298393"
+14,"Wilmington Pk Elementary School, Los Angeles","33.7911608, -118.2633204"
+15,"Woll Drive, Los Angeles","34.2369558, -118.6073379"
+16,"122nd St Elementary School, Los Angeles","33.9215946, -118.2673921"
+17,"Budlong Elementary School, Los Angeles","33.9867691, -118.2954464"
+18,"Woodcrest Elementary School, Los Angeles","33.937696, -118.2959261"
+19,"Avalon Gardens Elementary School, Los Angeles","33.9049323, -118.2692971"
+20,"Crescent Hts Bl EEC, Los Angeles","34.0569558, -118.3700705"
+21,"Graham Elementary School, Los Angeles","33.961479, -118.2378897"
+22,"South Shores Magnet Elementary School, Los Angeles","33.722693, -118.3222125"
+23,"Virginia Elementary School, Los Angeles","34.0280051, -118.3397028"
+24,"Knox Elementary School, Dr Owen Lloyd, Los Angeles","33.954806, -118.274214"
+25,"59th St Elementary School, Los Angeles","33.986381, -118.3200659"
+26,"7th St Elementary School, Los Angeles","33.7378929, -118.2973269"
+27,"Ken Malloy Harbor Regional Park, Los Angeles","33.783516, -118.294876"
+28,"Marvin Elementary School, Los Angeles","34.035593, -118.364317"
+29,"Osage Avenue, Los Angeles","33.9657377, -118.3787413"
+30,"Point Fermin, Los Angeles","33.7050194, -118.2939602"
+31,"Russell Elementary School, Los Angeles","33.9610357, -118.2518857"
+32,"West 52nd Street, Los Angeles","33.9950822, -118.3089505"
+33,"Grand View Elementary School, Los Angeles","34.0023408, -118.4296175"
+34,"Marlton Elementary School, Los Angeles","34.0549076, -118.242643"
+35,"W 14th St & S Meyler, Los Angeles","33.7315361, -118.2967985"
+36,"5261 Thornburn St, Los Angeles","33.9701504, -118.3718626"
+37,"Estrella Elementary School, Los Angeles","33.9905378, -118.2733684"
+38,"Lenicia Weemes Elementary School, Los Angeles","34.0215313, -118.2964984"
+39,"Pacific Palisades Elementary School, Los Angeles","34.0467365, -118.546434"
+40,"Westport Hts Elementary School, Los Angeles","33.9670281, -118.3884166"
+41,"6649-6701 W 88th St, Los Angeles","33.95714, -118.4060868"
+42,"Harbor Christian School, Los Angeles","33.793676, -118.274786"
+43,"Truxton, Los Angeles","33.9651162, -118.3934512"
+44,"Upland Avenue, Los Angeles","33.7502494, -118.294902"
+45,"Delgany Ave in Playa, Los Angeles","33.9579521, -118.4412677"
+46,"Diego Rivera LC, Los Angeles","33.9840227, -118.256223"
+47,"Grand View Boulevard, Los Angeles","34.0072596, -118.4330349"
+48,"Mid-City Magnet Elementary School, Los Angeles","34.0317148, -118.3181562"
+49,"Resurrection Catholic School, Los Angeles","34.0223462, -118.2047986"
+50,"Webster MS, Los Angeles","34.0298675, -118.4347599"
+51,"Westchester, Los Angeles","33.957255, -118.3962589"
+52,"Westchester-Kentwood South, Los Angeles","34.0549076, -118.242643"
+53,"Wilmington 2, Los Angeles","33.7948999, -118.2273604"
+54,"8360 Chase Ave, Los Angeles","33.9615302, -118.4093178"
+55,"Kent's yard, Los Angeles","34.0549076, -118.242643"
+56,"Ashwood Avenue, Los Angeles","34.0019001, -118.4476095"
+57,"Canfield Elementary School, Los Angeles","34.0505437, -118.3902932"
+58,"Loyola Village Elementary School, Los Angeles","33.957623, -118.421267"
+59,"Playa Del Rey Elementary School, Los Angeles","33.9823997, -118.40955"
+60,"Revere MS, Los Angeles","34.0549498, -118.4951759"
+61,"Trinity Elementary School, Los Angeles","34.0120128, -118.2695044"
+62,"Walgrove Elementary School, Los Angeles","34.0058561, -118.4517492"
+63,"Wilshire Crest Elementary School, Los Angeles","34.057988, -118.343595"
+64,"Windsor Magnet Elementary School, Los Angeles","34.0549076, -118.242643"
+65,"Leavey 5, Los Angeles","33.9688944, -118.422015"
+66,"Rose Avenue, Los Angeles","34.0124689, -118.4464034"
+67,"Westwood Elementary School, Los Angeles","34.047135, -118.4302192"
+68,"Village Green, Los Angeles","34.0195515, -118.3617279"
+69,"Brentwood Sci Mag Elementary School, Los Angeles","34.0500598, -118.4739654"
+70,"Hancock Park Elementary School, Los Angeles","34.0694682, -118.3610329"
+71,"Kenter Canyon Elementary School, Los Angeles","34.0706958, -118.4890412"
+72,"Lake Shrine, Los Angeles","34.0434754, -118.5528976"
+73,"Mar Vista, Los Angeles","34.0036796, -118.4335825"
+74,"Palms, Los Angeles","34.0247288, -118.4116534"
+75,"Stanley Avenue, Los Angeles","34.0528706, -118.3600947"
+76,"Westminster Elementary School, Los Angeles","33.9916065, -118.4722"
+77,"10380 Glenbarr Avenue, Los Angeles","34.0400858, -118.4106555"
+78,"Jefferson HS, Los Angeles","34.0095718, -118.2510021"
+79,"Villa Marina Townhomes, Los Angeles","33.9813396, -118.4350902"
+80,"3974 W Florence Ave, Los Angeles","33.9739309, -118.3352796"
+81,"Baldwin Hills, Los Angeles","34.0193012, -118.3666482"
+82,"Brockton Elementary School, Los Angeles","34.043952, -118.4628551"
+83,"CCA - Whitsett Avenue, Los Angeles","34.1819773, -118.4052671"
+84,"Glenmont Avenue, Los Angeles","34.0661292, -118.436989"
+85,"Rowan Elementary School, Los Angeles","34.0283132, -118.1871629"
+86,"Esperanza Elementary School, Los Angeles","34.0546807, -118.271848"
+87,"Huntington Palisades, Los Angeles","34.0374444, -118.5210654"
+88,"Plaza Community Services La Roca Verde, Los Angeles","34.0550064, -118.1781954"
+89,"San Pedro Elementary School, Los Angeles","34.028942, -118.257733"
+90,"Calle de Madrid, Los Angeles","34.0714627, -118.5578046"
+91,"Playa Vista, Los Angeles","33.9792232, -118.4138353"
+92,"Garfield HS/Monterey CHS, Los Angeles","36.6002378, -121.8946761"
+93,"Carey Street, Los Angeles","34.0457029, -118.5198721"
+94,"Hancock Park, Los Angeles","34.0761744, -118.3385981"
+95,"Lindenhurst and Crescent Heights, Los Angeles","34.0661213, -118.3648549"
+96,"Norwood Elementary School, Los Angeles","34.0352415, -118.2782119"
+97,"1302 N Poinsettia Pl, Los Angeles","34.0945405, -118.3480837"
+98,"Brentwood School West Campus, Los Angeles","34.0612035, -118.4756298"
+99,"Overland Avenue, Los Angeles","34.0243338, -118.4113214"
+100,"9th & Flower, Los Angeles","34.046124, -118.261375"
+101,"Brentwood School East Campus, Los Angeles","34.0668665, -118.4696946"
+102,"CCA - North La Brea Avenue, Los Angeles","34.0910215, -118.3440869"
+103,"Comstock-Dunkirk, Los Angeles","34.0549076, -118.242643"
+104,"Crescent Park W, Los Angeles","33.9704522, -118.4280664"
+105,"Los Feliz Elementary School, Los Angeles","34.1028892, -118.2931208"
+106,"N Main St, Los Angeles","34.0664402, -118.2203896"
+107,"Rosemont Elementary School, Los Angeles","34.072346, -118.269908"
+108,"Van Ness Elementary School, Los Angeles","34.0803334, -118.3162748"
+109,"West Hollywood, Los Angeles","34.0900091, -118.3617443"
+110,"Bellagio Rd, Los Angeles, CA, Los Angeles","34.0802175, -118.4527106"
+111,"Corona-Norco YMCA, Los Angeles","34.0549076, -118.242643"
+112,"Farlin Street, Los Angeles","34.0674896, -118.4639042"
+113,"Playa del Rey, Los Angeles","33.9564064, -118.4424524"
+114,"Atwater Elementary School, Los Angeles","34.1147155, -118.253952"
+115,"Oak Hill Avenue, Los Angeles","34.1035542, -118.1801422"
+116,"Stagg Elementary School, Los Angeles","34.2129518, -118.5065792"
+117,"Vedanta Courtyard, Los Angeles","34.0549076, -118.242643"
+118,"Warner Elementary School, Los Angeles","34.0697426, -118.4337257"
+119,"Westwood, Los Angeles","34.0588075, -118.4439326"
+120,"Dowlen Drive, Los Angeles","34.0521145, -118.4549782"
+121,"Moraga Drive, Los Angeles","34.0861506, -118.4698842"
+122,"Meadow Valley Terrace, Los Angeles","34.1008443, -118.2716307"
+123,"Frank Del Olmo Elementary School, Los Angeles","34.072925, -118.292591"
+124,"Cedarhurst Circle, Los Angeles","34.1108487, -118.2836803"
+125,"Glenwood Elementary School, Los Angeles","34.2163383, -118.3578599"
+126,"Norris Avenue, Los Angeles","34.3098195, -118.4621458"
+127,"Yucca Street, Los Angeles","34.1033789, -118.3333522"
+128,"CCA Bates and Sunset, Los Angeles","34.0549076, -118.242643"
+129,"Harvard-Westlake Middle School, Los Angeles","34.0876693, -118.4338455"
+130,"Roybal LC, Los Angeles","34.06149670000001, -118.254669"
+131,"Silver Lake, Los Angeles","34.082936, -118.2733457"
+132,"Central Belden Drive, Los Angeles","34.122566, -118.3219867"
+133,"Mellon Avenue, Los Angeles","34.1024967, -118.2480484"
+134,"Wilshire Blvd, Los Angeles","34.0640612, -118.3718705"
+135,"Bryn Mawr Drive, Los Angeles","34.113075, -118.3287316"
+136,"Glassell Park, Los Angeles","34.1200715, -118.2288829"
+137,"North Citrus Avenue, Los Angeles","34.0845636, -118.3396796"
+138,"University of California Outside, Los Angeles","34.0699182, -118.4438495"
+139,"Logan Elementary School, Los Angeles","34.0788102, -118.257733"
+140,"Nomad Drive, Los Angeles","34.1580811, -118.5682563"
+141,"Sheridan St Elementary School, Los Angeles","34.0502902, -118.207613"
+142,"Stonehurst Elementary School, Los Angeles","34.251114, -118.3703581"
+143,"Stone Canyon Avenue, Los Angeles","34.1400076, -118.459659"
+144,"306 North Avenue 50 - outside, Los Angeles","34.1071942, -118.20407"
+145,"Fernangeles Elementary School, Los Angeles","34.231732, -118.39503"
+146,"Metropolitan HS, Los Angeles","34.0337765, -118.2345115"
+147,"Utah Elementary School, Los Angeles","34.049062, -118.224583"
+148,"Wonderland Elementary School, Los Angeles","34.1142214, -118.3798058"
+149,"Baltimore Street, Los Angeles","34.1179892, -118.2027901"
+150,"Nichols Canyon Road, Los Angeles","34.1147788, -118.3599943"
+151,"Toluca Lake Elementary School, Los Angeles","34.1594946, -118.3613245"
+152,"11060 Norris Ave, Los Angeles","34.2710414, -118.4162646"
+153,"511 North Kenter Avenue, Los Angeles","34.067809, -118.4863881"
+154,"CCA Avenida Bonita and Villa Del Sol, Los Angeles","34.2768546, -118.4131489"
+155,"CCA Borden and Carl, Los Angeles","34.0549076, -118.242643"
+156,"NASA - Terrace 49, Los Angeles","34.1144425, -118.2114436"
+157,"11101-11117 Ventura Blvd, Los Angeles","34.1415576, -118.3721225"
+158,"875 Terrace 49, Los Angeles","34.1140758, -118.2111233"
+159,"Colfax Elementary School, Los Angeles","34.1601301, -118.3883087"
+160,"Glenfeliz Blvd Elementary School, Los Angeles","34.1200765, -118.2653463"
+161,"Harding Elementary School, Los Angeles","34.3052925, -118.4164548"
+162,"Laurel Elementary School, Los Angeles","34.0549076, -118.242643"
+163,"Riverside Drive, Los Angeles","34.098931, -118.2489795"
+164,"Harrison Elementary School, Los Angeles","34.053843, -118.1887297"
+165,"Maclay MS, Los Angeles","34.2715979, -118.4065119"
+166,"Scandia Way, Los Angeles","34.1192465, -118.2247091"
+167,"2853-2841 N Beverly Glen Blvd, Los Angeles","34.1258989, -118.4459166"
+168,"Aragon Elementary School, Los Angeles","34.094857, -118.225535"
+169,"CCA Haddon and Weidner, Los Angeles","34.2656524, -118.4335681"
+170,"Hill Drive, Los Angeles","34.1111144, -118.3765473"
+171,"Huntington, Los Angeles","33.9816812, -118.2250725"
+172,"Naturhus W Avenue 37, Los Angeles","34.1001172, -118.2236682"
+173,"Solano Elementary School, Los Angeles","34.0761451, -118.232196"
+174,"Tropico Way, Los Angeles","34.1057068, -118.2231053"
+175,"4704 St Clair Ave, Los Angeles","34.1561189, -118.3989424"
+176,"Ackerman Drive, Los Angeles","34.1168243, -118.2263929"
+177,"Buchanan Elementary School, Los Angeles","34.1192482, -118.2063769"
+178,"CCA Kewen and Van Nuys, Los Angeles","34.2623889, -118.4272098"
+179,"Camden Avenue, Los Angeles","34.0448491, -118.4393291"
+180,"Central Los Angeles, Los Angeles","34.0689454, -118.3236337"
+181,"Green Verdugo Drive, Los Angeles","34.2559183, -118.3386997"
+182,"Media District, Los Angeles","34.0879291, -118.3446425"
+183,"El Sereno Elementary School, Los Angeles","34.0899937, -118.1769951"
+184,"Halsted Street, Los Angeles","34.2445737, -118.5350513"
+185,"Mt. Washington School, Los Angeles","34.1030377, -118.2169092"
+186,"Multnomah St Elementary School, Los Angeles","34.0693953, -118.1900335"
+187,"Rim Canyon Road, Los Angeles","34.2741577, -118.3047974"
+188,"Springvale, Los Angeles","34.1234319, -118.1866668"
+189,"Sun Valley, Los Angeles","34.2225413, -118.3878208"
+190,"Sunland Boulevard, Los Angeles","34.2476227, -118.3499739"
+191,"17489 Tuscan Dr, Los Angeles","34.3041038, -118.5140265"
+192,"8500 Louise Avenue, Los Angeles","34.2250967, -118.5093893"
+193,"Bel Air Hills, Los Angeles","34.1002272, -118.4594893"
+194,"CCA Castle Peak and Sunset Ridge, Los Angeles","34.196378, -118.6589895"
+195,"CSUN Live Oak, Los Angeles","34.2406756, -118.5300196"
+196,"Eagle Rock Elementary School, Los Angeles","34.1359438, -118.2130074"
+197,"Monlux Elementary School, Los Angeles","34.1809165, -118.4097322"
+198,"Toluca Lake, Los Angeles","34.1522225, -118.3614667"
+199,"Woodland Hills 2, Los Angeles","34.1685035, -118.6058267"
+200,"Kester Avenue, Los Angeles","34.2075572, -118.4574817"
+201,"La Fayette PP / Marathon, Los Angeles","34.0549076, -118.242643"
+202,"Sierra Park Elementary School, Los Angeles","34.0823177, -118.1689134"
+203,"VVAMPLincoln2, Los Angeles","34.0549076, -118.242643"
+204,"Aleman Drive, Los Angeles","34.1462301, -118.5648911"
+205,"Arroyo Seco Magnet SPAN, Los Angeles","34.1016544, -118.2043503"
+206,"Fair Avenue, Los Angeles","34.1830642, -118.3746956"
+207,"Northridge, Los Angeles","34.2354576, -118.5361381"
+208,"Parthenia Street, Los Angeles","34.2286581, -118.5249595"
+209,"Riverwood ranch, Los Angeles","34.2776191, -118.3185559"
+210,"Vulcan Drive, Los Angeles","34.1166218, -118.3689175"
+211,"Westland School, Los Angeles","34.1293542, -118.4859806"
+212,"4124 Fulton Ave, Los Angeles","34.144429, -118.4222213"
+213,"CCA Crownridge and Royal Woods, Los Angeles","34.1338002, -118.4742372"
+214,"Chandler Elementary School, Los Angeles","34.166422, -118.4389877"
+215,"Dyer Elementary School, Los Angeles","34.3001319, -118.4476225"
+216,"Hazen Drive, Los Angeles","34.1150946, -118.3962055"
+217,"Lockhurst Drive, Los Angeles","34.1787617, -118.6499118"
+218,"Porter Ranch, Los Angeles","34.27549520000001, -118.5472573"
+219,"Sierra Vista Elementary School, Los Angeles","34.09583080000001, -118.1589872"
+220,"Woodland Hills, Los Angeles","34.1685035, -118.6058267"
+221,"Byrd MS, Los Angeles","34.2239176, -118.4079183"
+222,"Cohasset Elementary School, Los Angeles","34.207515, -118.477991"
+223,"Encino, Luverne Pl, Los Angeles","34.1485698, -118.5080416"
+224,"Lincoln and Ave 51, Los Angeles","34.1171112, -118.2049082"
+225,"Lowman Sp Ed Ctr, Los Angeles","34.2067077, -118.4127961"
+226,"Rio Vista Elementary School, Los Angeles","34.1472362, -118.3678898"
+227,"San Pascual Elementary School, Los Angeles","34.1188733, -118.1715818"
+228,"Sharp Elementary School, Los Angeles","34.2523117, -118.4327187"
+229,"Tacuba Street, Los Angeles","34.1101308, -118.2174221"
+230,"Ranchito Elementary School, Los Angeles","34.2149329, -118.4341996"
+231,"Roscomare Elementary School, Los Angeles","34.1199574, -118.4642172"
+232,"Kittridge Elementary School, Los Angeles","34.190563, -118.4296818"
+233,"Nevada Elementary School, Los Angeles","34.2238057, -118.6074703"
+234,"Anatola Elementary School, Los Angeles","34.2039231, -118.5145211"
+235,"Brainard Elementary School, Los Angeles","34.27742, -118.3645936"
+236,"Calabash Elementary School, Los Angeles","34.158581, -118.629491"
+237,"Calvert Elementary School, Los Angeles","34.0549076, -118.242643"
+238,"Herrick Ave, Los Angeles","34.2964769, -118.4418017"
+239,"Mayall Elementary School, Los Angeles","34.2532811, -118.5361244"
+240,"Porter Ranch Cmty Sch, Los Angeles","34.27549520000001, -118.5472573"
+241,"Verdugo Hills HS, Los Angeles","34.2617646, -118.2985034"
+242,"Wilbur Elementary School, Los Angeles","34.1651368, -118.544452"
+243,"Andasol Elementary School, Los Angeles","34.2547151, -118.5146271"
+244,"Canterbury Ave Elementary School, Los Angeles","34.2339533, -118.4298478"
+245,"Hesby Oaks SPAN, Los Angeles","34.1618887, -118.4726989"
+246,"Napa Elementary School, Los Angeles","34.2258627, -118.5472758"
+247,"ORR Sullivan Canyon, Los Angeles","34.0990173, -118.5200076"
+248,"Topeka Dr Elementary School, Los Angeles","34.1874688, -118.5458533"
+249,"Woodland Hills Elementary School, Los Angeles","34.1590266, -118.6101541"
+250,"Danube Elementary School, Los Angeles","34.2741582, -118.474471"
+251,"Harvard-Westlake Upper School 2, Los Angeles","34.1396389, -118.4126294"
+252,"Kester Elementary School, Los Angeles","34.167579, -118.458537"
+253,"Parthenia Elementary School, Los Angeles","34.2272802, -118.4991692"
+254,"Stone Canyon, Los Angeles","34.0788976, -118.4420243"
+255,"Sunny Brae Elementary School, Los Angeles","34.2128095, -118.5815666"
+256,"Sylmar, Los Angeles","34.2994874, -118.4588292"
+257,"Alta California Elementary School, Los Angeles","34.2324268, -118.4568159"
+258,"Chatsworth HS, Los Angeles","34.25342370000001, -118.5860661"
+259,"Hamlin Elementary School, Los Angeles","34.1896111, -118.62028"
+260,"Lassen Elementary School, Los Angeles","34.2465215, -118.4591603"
+261,"Monroe HS, Los Angeles","34.2383746, -118.4769293"
+262,"Mulholland MS, Los Angeles","34.1928686, -118.5059095"
+263,"Nestle Elementary School, Los Angeles","34.1622413, -118.5305467"
+264,"North Valley OC, Los Angeles","34.1697245, -118.3551662"
+265,"Rinaldi Adult Center, Los Angeles","34.2791507, -118.5147362"
+266,"Vintage Math/Sci Mag Elementary School, Los Angeles","34.2519085, -118.477271"
+267,"Knollwood Elementary School, Los Angeles","34.2850886, -118.4926004"
+268,"Mosk Elementary School, Los Angeles","34.2033877, -118.5683705"
+269,"Castlebay Ln Elementary School, Los Angeles","34.2936741, -118.5475018"
+270,"Taft HS, Los Angeles","34.1690356, -118.5716831"
+271,"Van Gogh Elementary School, Los Angeles","34.3055309, -118.5058746"
+272,"3173 17 Mile Dr, Los Angeles","34.0549076, -118.242643"
+273,"Mountain Gate, Los Angeles","34.1104918, -118.48531"
+274,"Pagoda Place, Los Angeles","34.087694, -118.2021523"
+275,"Granada Hills - North, Los Angeles","34.2940295, -118.5039132"
+276,"Jolette Ave x Westbury Dr, Los Angeles","34.3020513, -118.5098497"
+277,"Lorenzana, Los Angeles","34.1647376, -118.5748806"
+278,"1418-1468 Loma Vista St, Los Angeles","34.1603751, -118.1211304"
+279,"Glen Springs Road, Los Angeles","34.1796674, -118.0912781"
+280,"North Dominion Avenue, Los Angeles","34.1702764, -118.1141719"
+281,"Hastings Ranch, Los Angeles","34.1617516, -118.0727353"
+282,"JPL Building 305, Los Angeles","34.2013081, -118.1713944"
+283,"S Wilson Ave, Los Angeles","34.1387865, -118.1279987"
+284,"East Dudley Street, Los Angeles","34.1624893, -118.1031553"
+285,"South Berkeley Avenue, Los Angeles","34.1411485, -118.1094816"
+286,"1680 La Cresta Dr, Los Angeles","34.1760117, -118.1677607"
+287,"Inverness Drive, Los Angeles","34.1146951, -118.2883976"
+288,"La Presa Drive, Los Angeles","34.1087157, -118.3425381"
+289,"Linda Vista Avenue - West Drive, Los Angeles","34.1629006, -118.1747641"
+290,"Rose Bowl Command Post, Los Angeles","34.1613284, -118.1676462"
+291,"Lincoln & Washington, Los Angeles","33.9904121, -118.4478139"
+292,"NASA - Lida Street, Los Angeles","34.1716771, -118.1827076"
+293,"Science Village, Los Angeles","34.0549076, -118.242643"
+294,"1200 E California Blvd, Los Angeles","34.1337786, -118.1275559"
+295,"Scott Place, Los Angeles","34.0855156, -118.2701706"
+296,"North Arroyo, Los Angeles","34.171705, -118.1766294"
+297,"California Institute of Technology, Los Angeles","34.1376576, -118.125269"
+298,"Magnolia Avenue, Los Angeles","34.0451098, -118.286386"
+299,"Fillmore Street, Los Angeles","34.0549076, -118.242643"
+300,"484 East California Boulevard, Los Angeles","34.1356062, -118.140654"
+301,"South 2nd Street, Los Angeles","34.0549076, -118.242643"
+302,"West Shorb Street, Los Angeles","34.079395, -118.1400667"
+303,"South Campbell Avenue, Los Angeles","34.0738178, -118.1431217"
+304,"999 East Valley Boulevard, Los Angeles","34.0660096, -118.180046"
+305,"Violeta Drive, Los Angeles","34.0769324, -118.1123902"
+306,"East Ross Avenue, Los Angeles","34.0724965, -118.1131098"
+307,"SCAP_72, Los Angeles","34.0549076, -118.242643"
+308,"South Electric Avenue, Los Angeles","34.0841588, -118.1395179"
+309,"South Hidalgo Avenue, Los Angeles","34.0843321, -118.1159731"
+310,"West Adams Avenue, Los Angeles","34.0313658, -118.2857264"
+311,"Palmetto Drive, Los Angeles","34.1373669, -118.1563971"
+312,"Westboro Avenue, Los Angeles","34.0641491, -118.4888493"
+313,"North Story Place, Los Angeles","34.1046637, -118.1272522"
+314,"SCAP_78, Los Angeles","34.0549076, -118.242643"
+315,"SCAP 124, Los Angeles","34.0549076, -118.242643"
+316,"Story Park, Los Angeles","34.0549076, -118.242643"
+317,"NASA - Paloma Drive, Los Angeles","34.0549076, -118.242643"
+318,"BikeSGV - Baldwin Park, Los Angeles","34.0852868, -117.9608978"
+319,"Pacific Avenue, Los Angeles","34.0028874, -118.4325399"
+320,"Larboard Lane, Los Angeles","34.1571049, -118.7865206"
+321,"Lost Oak Court, Los Angeles","34.1035513, -118.3764427"
+322,"Lago Vista Place, Los Angeles","34.0951782, -118.4085311"
+323,"Carla Ridge, Los Angeles","34.1048822, -118.3996433"
+324,"Jolley Drive, Los Angeles","34.2033861, -118.3268611"
+325,"Magnolia Park, Los Angeles","34.1682726, -118.3388895"
+326,"Lupin Hill Elementary School, Los Angeles","34.1624861, -118.6973299"
+327,"Ladybird Drive, Los Angeles","34.1114609, -118.6611965"
+328,"Ambler Elementary School, Los Angeles","33.8782331, -118.2707734"
+329,"International Avenue, Los Angeles","34.2263818, -118.5994678"
+330,"Curtiss MS, Los Angeles","33.8512778, -118.2507252"
+331,"Bonita Elementary School, Los Angeles","33.8285197, -118.2602158"
+332,"Dolores Elementary School, Los Angeles","34.0197203, -118.2687969"
+333,"Dominguez Elementary School, Los Angeles","33.8361465, -118.2150458"
+334,"Bonita and Cambridge, Los Angeles","34.0549076, -118.242643"
+335,"Providence Place, Los Angeles","34.0549076, -118.242643"
+336,"545 W 10th St, Los Angeles","33.7349021, -118.2889539"
+337,"Las Casas Avenue, Los Angeles","34.0457074, -118.5432375"
+338,"Joshua Tree National Park - Cottonwood Visitor Center, Los Angeles","34.0549076, -118.242643"
+339,"Fuller Drive, Los Angeles","34.0549076, -118.242643"
+340,"Abilene Way, Los Angeles","34.0549076, -118.242643"
+341,"Northwestern Drive, Los Angeles","34.0549076, -118.242643"
+342,"Tulane Rd, Los Angeles","34.0549076, -118.242643"
+343,"CCA Gibson and San Marcus, Los Angeles","34.1106245, -118.2077507"
+344,"E Pixley St, Los Angeles","33.9016402, -118.2026159"
+345,"AQMD - Compton, Los Angeles","33.8958492, -118.2200712"
+346,"Southeast Rio Vista YMCA, Los Angeles","33.9874724, -118.1783964"
+347,"Elizabeth Learning Ctr, Los Angeles","33.9631577, -118.1830734"
+348,"Blanco Way, Los Angeles","33.9955126, -118.3987558"
+349,"Lantana Lane, Los Angeles","34.1254716, -118.1778695"
+350,"South Drive, Los Angeles","34.0104547, -118.136341"
+351,"Jasmine Avenue, Los Angeles","34.0179598, -118.3992293"
+352,"Overland Avenue 2, Los Angeles","34.022942, -118.4104589"
+353,"Willows Community School, Los Angeles","34.0225002, -118.3808126"
+354,"Wesley Street, Los Angeles","34.0549076, -118.242643"
+355,"Tolani Court, Los Angeles","33.989259, -117.8300761"
+356,"Valley Vista Drive 1701 Cliffbranch Drive, Diamond Bar, Los Angeles","33.9933849, -117.8397528"
+357,"Copley Drive 1, Los Angeles","34.0764009, -118.4232691"
+358,"North Diamond Bar Boulevard, Los Angeles","34.0333059, -117.807893"
+359,"Paramount Boulevard, Los Angeles","34.1080267, -118.3406986"
+360,"Quinn Street, Los Angeles","34.0985959, -118.244904"
+361,"Duarte Hills, Los Angeles","34.0549076, -118.242643"
+362,"Valley Boulevard, Los Angeles","34.0660096, -118.180046"
+363,"Whiting Street, Los Angeles","34.0549076, -118.242643"
+364,"El Segundo-Richmond Street, Los Angeles","33.9208597, -118.4171819"
+365,"Chapman Elementary School, Los Angeles","33.8955104, -118.3130728"
+366,"Amestoy Elementary School, Los Angeles","33.8955155, -118.2934064"
+367,"Purche Elementary School, Los Angeles","33.9116034, -118.3195287"
+368,"135th St Elementary School, Los Angeles","33.9094453, -118.2896"
+369,"Gardena HS, Los Angeles","33.8667951, -118.2970751"
+370,"Vermont Avenue, Los Angeles","33.928425, -118.2919746"
+371,"Adams Square, Los Angeles","34.13361, -118.24028"
+372,"CCA Hollister and Scholl, Los Angeles","34.0549076, -118.242643"
+373,"Abella, Los Angeles","34.0549076, -118.242643"
+374,"2970 Piedmont Avenue, Los Angeles","34.1114341, -118.1928278"
+375,"Glenoaks Canyon, Los Angeles","34.1508944, -118.2088013"
+376,"Sonora Avenue, Los Angeles","34.1668289, -118.2873921"
+377,"Sherer Lane, Los Angeles","34.1723785, -118.2231738"
+378,"Western Avenue, Los Angeles","33.9145534, -118.3091222"
+379,"Chevy Chase, Los Angeles","34.1706142, -118.2020211"
+380,"CCA - Columbus and Riverdale, Los Angeles","34.0549076, -118.242643"
+381,"Downtown, Los Angeles","34.055691, -118.2487702"
+382,"Glendora - Laurel, Los Angeles","34.1361187, -117.865339"
+383,"Bluebird Road, Los Angeles","34.0971091, -118.3920242"
+384,"Glendora - Moreton Place, Los Angeles","34.0827437, -118.2506044"
+385,"CCA Hermosa Beach 10th St, Los Angeles","33.8622495, -118.3935201"
+386,"Marineland, Los Angeles",
+387,"Gentry Street, Los Angeles","33.9826448, -118.2180086"
+388,"San Antonio Elementary School, Los Angeles","33.98314380000001, -118.2120486"
+389,"Middleton Elementary School, Los Angeles","33.9798793, -118.2281271"
+390,"CCA 64th and Halm, Los Angeles","33.9829389, -118.3753297"
+391,"Century Pk Elementary School, Los Angeles","34.0579306, -118.4113354"
+392,"Inverness Drive, Los Angeles","34.1146951, -118.2883976"
+393,"Clear Creek Ed Ctr, Los Angeles","34.0549076, -118.242643"
+394,"Beulah Drive, Los Angeles","34.1992734, -118.1981494"
+395,"JPL Building 11, Los Angeles","34.2013081, -118.1713944"
+396,"DSN Road, Los Angeles","34.2005685, -118.1741195"
+397,"Hillside School, Los Angeles","34.1027895, -118.3594974"
+398,"JPL Building 125, Los Angeles","34.0549076, -118.242643"
+399,"Alta Canyada Road, Los Angeles","34.2168805, -118.2110433"
+400,"Descanso Drive, Los Angeles","34.0850566, -118.2766154"
+401,"Regent Park Drive, Los Angeles","34.1826178, -118.1949105"
+402,"IQAir colocation site, sensor 9, Los Angeles","34.0549076, -118.242643"
+403,"IQAir colocation site, sensor 8, Los Angeles","34.0549076, -118.242643"
+404,"IQAir colocation site, sensor 6, Los Angeles","34.0549076, -118.242643"
+405,"IQAir colocation site, sensor 7, Los Angeles","34.0549076, -118.242643"
+406,"IQAir North America 1, Los Angeles","34.0549076, -118.242643"
+407,"Kuns Park, Los Angeles","34.0549076, -118.242643"
+408,"Creekwood Drive, Los Angeles","34.0549076, -118.242643"
+409,"Briney Point Road, Los Angeles","34.0549076, -118.242643"
+410,"CCA Clematis and Shadeway, Los Angeles","34.0549076, -118.242643"
+411,"Lancaster Station2, Los Angeles","34.703947, -118.1481016"
+412,"Lancaster-Fairgrounds, Los Angeles","34.0549076, -118.242643"
+413,"East Avenue East, Los Angeles","34.0224417, -118.1669736"
+414,"8215 W Ave D, Los Angeles","34.0549076, -118.242643"
+415,"Dahlia Street, Los Angeles","34.1436214, -118.1997992"
+416,"Eshelman Elementary School, Los Angeles","33.78813239999999, -118.3141989"
+417,"Attica Drive, Los Angeles","33.7577783, -118.1212001"
+418,"Conservation Corps of Long Beach - Deforest, Los Angeles","43.2477685, -89.343727"
+419,"NASA Bixby Village, Los Angeles","33.7721096, -118.1149516"
+420,"Los Altos, Los Angeles","34.1095322, -118.3391437"
+421,"Brayton Avenue, Los Angeles","33.8249692, -118.1752493"
+422,"Stratford Square, Los Angeles","34.1222624, -118.2013848"
+423,"CCA 4th and Los Altos, Los Angeles","34.0549076, -118.242643"
+424,"Rosina Street, Los Angeles","34.0549076, -118.242643"
+425,"Eastside, Los Angeles",
+426,"Alamitos Beach, Los Angeles","33.76881729999999, -118.1749342"
+427,"Bluff Heights, Los Angeles","33.7672887, -118.157616"
+428,"Long Beach Signal Hill, Los Angeles","33.8044614, -118.1678456"
+429,"West Melrose Way, Los Angeles","33.7722594, -118.1980445"
+430,"CCA - East Harding Street, Los Angeles","33.8674018, -118.1691459"
+431,"CCA - West 31st Street, Los Angeles","34.026482, -118.3151554"
+432,"CCA - Maury and Tehachapi 2, Los Angeles","34.0549076, -118.242643"
+433,"Craftsman Village, Los Angeles","34.0549076, -118.242643"
+434,"CCA 61st and Walnut, Los Angeles","34.0202894, -117.8653386"
+435,"Chestnut Ave, Los Angeles","34.1162656, -118.1731676"
+436,"Apex Logistics International Inc, Los Angeles","33.8594947, -118.2024763"
+437,"Camden Harbor View, Los Angeles","33.7660642, -118.1947576"
+438,"AirFalcon, Los Angeles","34.0549076, -118.242643"
+439,"Bixby Knolls, Los Angeles","33.8414986, -118.1763396"
+440,"Upper Westside, Los Angeles","33.8116758, -118.2154685"
+441,"CCA Carson & Long Beach, Los Angeles","33.833919, -118.1893631"
+442,"Little Owl School, Los Angeles","33.8194539, -118.1860877"
+443,"710 North Long Beach, Los Angeles","33.8601171, -118.1772884"
+444,"E Ocean Blvd, Long Beach CA, Los Angeles","33.7611192, -118.1532623"
+445,"CCA Maury and Tehachapi 3, Los Angeles","34.0549076, -118.242643"
+446,"AQMD - South Susana Road, Los Angeles","33.8595169, -118.2037651"
+447,"Jordan HS, Los Angeles","33.94345940000001, -118.2310973"
+448,"Coastline Drive, Los Angeles","34.0426633, -118.5727107"
+449,"Mariposa Circle, Los Angeles","33.9654757, -118.2992882"
+450,"Dry Gulch Trail, Los Angeles","34.0549076, -118.242643"
+451,"Central Malibu 3, Los Angeles","34.031947, -118.7722699"
+452,"Vantage Point Terrace, Los Angeles","34.0377424, -118.7117031"
+453,"Central Malibu 2, Los Angeles","34.031947, -118.7722699"
+454,"East Manhattan Beach, Los Angeles","33.8847361, -118.4109089"
+455,"Manhattan Beach Tree Section, Los Angeles","33.8847361, -118.4109089"
+456,"Magnolia Avenue, Los Angeles","34.0451098, -118.286386"
+457,"North Mountain Avenue, Los Angeles","34.0549076, -118.242643"
+458,"California Avenue, Los Angeles","33.9947612, -118.463212"
+459,"NASA Leafwood Drive, Los Angeles","34.0549076, -118.242643"
+460,"South Mayflower Avenue, Los Angeles","34.130233, -118.0094363"
+461,"West Chestnut Avenue, Los Angeles","34.2936303, -118.5844657"
+462,"Alhambra Avenue, Los Angeles","34.0635463, -118.2154105"
+463,"College View Drive, Los Angeles","34.1271044, -118.2217914"
+464,"Avenida Cesar Chavez, Los Angeles","34.0408087, -118.1558602"
+465,"Crest Vista Drive, Los Angeles","34.0497642, -118.145145"
+466,"Gracebee Avenue, Los Angeles","33.9014683, -118.0544036"
+467,"Wild Hare Ranch, Los Angeles","34.21477890000001, -118.5004921"
+468,"Wild Hare Road, Los Angeles","34.0549076, -118.242643"
+469,"35th Street West, Los Angeles","34.6666839, -118.192416"
+470,"Pico Rivera Station, Los Angeles","34.3871821, -118.1122679"
+471,"Garfield Avenue, Los Angeles","33.9906497, -118.4516957"
+472,"Pomona Station, Los Angeles","34.0549076, -118.242643"
+473,"Pomona Historic Lincoln Park, Los Angeles","34.055103, -117.7499909"
+474,"N Garey and Bonita, Los Angeles","34.0549076, -118.242643"
+475,"32508 Seawolf Dr, Los Angeles","33.7438796, -118.3930672"
+476,"Mazur Drive, Los Angeles","33.7860005, -118.3787646"
+477,"Verde Ridge Road, Los Angeles","33.7678936, -118.3963723"
+478,"Narcissa Drive, Los Angeles","33.7434005, -118.3734997"
+479,"720 Ave.C, Los Angeles","34.0851397, -118.3213447"
+480,"Morgan Lane, Los Angeles","34.0549076, -118.242643"
+481,"Perkins Lane, Los Angeles","34.0549076, -118.242643"
+482,"Highridge Park, Los Angeles","33.7668641, -118.3816244"
+483,"Charlotte Avenue, Los Angeles","34.0549076, -118.242643"
+484,"San Fernando MS, Los Angeles","34.2828802, -118.4373758"
+485,"1st Street, Los Angeles","34.0391703, -118.1995553"
+486,"Milton Drive, Los Angeles","34.0549076, -118.242643"
+487,"UltimateReality, Los Angeles","34.0549076, -118.242643"
+488,"San Marino Tennis Club, Los Angeles","34.121397, -118.1064585"
+489,"JimmyC Place, Los Angeles","34.0549076, -118.242643"
+490,"NASA - Kristin Lane, Los Angeles","34.0549076, -118.242643"
+491,"23998-23900 Via Hamaca, Los Angeles","34.3867023, -118.5553337"
+492,"Saugus, Los Angeles","34.1485994, -118.4658643"
+493,"Bakerton Avenue, Los Angeles","34.4289082, -118.4640972"
+494,"West Rustic Road 1, Los Angeles","34.0337787, -118.5180962"
+495,"431 7th St, Los Angeles","34.0465967, -118.2550311"
+496,"500 Broadway Roof, Los Angeles","34.0155463, -118.4917291"
+497,"Michigan Avenue, Los Angeles","34.0461633, -118.2114052"
+498,"1027 11th St, Los Angeles","34.0320923, -118.2469692"
+499,"14th Street, Los Angeles","34.0234117, -118.2328765"
+500,"Franklin Street 1, Los Angeles","34.0549076, -118.242643"
+501,"350 21st St, Los Angeles","34.0302042, -118.268916"
+502,"Princeton Street, Los Angeles","34.0273152, -118.1839928"
+503,"25th Court, Los Angeles","34.034347, -118.3283973"
+504,"Ramona Avenue, Los Angeles","34.0549076, -118.242643"
+505,"Vista Avenue, Los Angeles","34.1061835, -118.491404"
+506,"Manzanita Avenue, Los Angeles","34.0929343, -118.2812527"
+507,"East Burnett Street, Los Angeles","33.8007588, -118.1676801"
+508,"CCA 19th and Molino, Los Angeles","34.0415372, -118.2339051"
+509,"East Hill Street, Los Angeles","33.796895, -118.1763487"
+510,"Montara Ave Elementary School, Los Angeles","33.9417148, -118.2192419"
+511,"Bryson Elementary School, Los Angeles","33.9448238, -118.1926976"
+512,"State Elementary School, Los Angeles","33.9641069, -118.2119999"
+513,"Laurel Street, Los Angeles","33.9483046, -118.2306339"
+514,"Prospect Circle, Los Angeles","34.1089934, -118.3684984"
+515,"325 Oaklawn Avenue, Los Angeles","34.1221267, -118.153307"
+516,"Winding Lane, Los Angeles","34.0549076, -118.242643"
+517,"CCA Hanscom and Illinois, Los Angeles","40.6331249, -89.3985283"
+518,"West 230th Street, Los Angeles","33.8171063, -118.3199139"
+519,"Hollywood Riviera, Los Angeles","33.8141823, -118.3831293"
+520,"Calle Cabrillo, Los Angeles","33.8131311, -118.3763143"
+521,"Yukon Avenue, Los Angeles","33.888448, -118.3357615"
+522,"Madrona, Los Angeles","34.0549076, -118.242643"
+523,"Walteria, Los Angeles","33.7991798, -118.3478263"
+524,"Eleda Drive, Los Angeles","33.7960386, -118.3483492"
+525,"Hillside, Los Angeles","33.9796562, -118.3902372"
+526,"Dorty Avenue, Los Angeles","34.0549076, -118.242643"
+527,"Madison Street, Los Angeles","34.0549076, -118.242643"
+528,"Maricopa Street-Victor, Los Angeles","33.8395277, -118.3481042"
+529,"Southeast Torrance, Los Angeles","33.8104915, -118.319894"
+530,"Marble Estates, Los Angeles","33.8161975, -118.3330449"
+531,"CCA 179th and Hawthorne, Los Angeles","33.8680885, -118.3481674"
+532,"Maricopa Street, Los Angeles","34.1103751, -118.2236032"
+533,"Guenser Park, Los Angeles","33.8692312, -118.3134991"
+534,"North Torrance, Los Angeles","33.8652045, -118.3363096"
+535,"West 204th Street, Los Angeles","33.8456063, -118.2992306"
+536,"CCA Ivy Terrace and Valle, Los Angeles","34.0549076, -118.242643"
+537,"Van Deene Ave Elementary School, Los Angeles","33.8386224, -118.2884854"
+538,"NASA - Brookfield Place, Los Angeles","34.0549076, -118.242643"
+539,"Betty Way, Los Angeles","34.0549076, -118.242643"
+540,"WeHo San Vicente Outdoor, Los Angeles","34.0900091, -118.3617443"
+541,"West Hollywood Elementary School, Los Angeles","34.0890748, -118.3873066"
+542,"Indian Trail Court, Los Angeles","34.0549076, -118.242643"
+543,"White Oak Elementary School, Los Angeles","34.2747421, -118.6671533"
+544,"Kirsten Lee Dr, Los Angeles","34.0549076, -118.242643"
+545,"CCA Anaconda and Cole, Los Angeles","34.0549076, -118.242643"
+546,"Cape Tenez Drive, Los Angeles","34.0023178, -118.0551355"
